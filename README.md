@@ -1,6 +1,7 @@
 # LetterBoxed puzzle Solver
 University Staff
 LetterBoxed is a popular word puzzle by Sam Ezersky used in New York Times: https://www.nytimes.com/puzzles/letter-boxed 
+
 Run LetterSquare.java to solve puzzle.
 
 
